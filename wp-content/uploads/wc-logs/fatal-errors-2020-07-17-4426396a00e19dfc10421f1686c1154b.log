@@ -1,0 +1,133 @@
+2020-07-17T10:00:51+00:00 CRITICAL Uncaught Error: Call to undefined function amphibious_default() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:82
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin.php(34): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-admin/customize.php(13): require_once('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 82
+
+2020-07-17T10:04:44+00:00 CRITICAL Cannot redeclare amphibious_credits_blog() (previously declared in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:96) in /Users/sinhcautb/Sites/wordpress/wp-content/themes/Amphibious/inc/extras.php on line 257
+
+2020-07-17T10:04:45+00:00 CRITICAL Cannot redeclare amphibious_credits_blog() (previously declared in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:96) in /Users/sinhcautb/Sites/wordpress/wp-content/themes/Amphibious/inc/extras.php on line 257
+
+2020-07-17T10:05:51+00:00 CRITICAL Cannot redeclare amphibious_credits_blog() (previously declared in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:96) in /Users/sinhcautb/Sites/wordpress/wp-content/themes/Amphibious/inc/extras.php on line 257
+
+2020-07-17T10:07:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 94 and at least 2 expected in /Users/sinhcautb/Sites/wordpress/wp-includes/plugin.php:583
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php(94): remove_action('amphibious_cred...')
+#1 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-admin/admin.php(34): require_once('/Users/sinhcaut...')
+#5 /Users/sinhcautb/Sites/wordpress/wp-admin/customize.php(13): require_once('/Users/sinhcaut...')
+#6 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-includes/plugin.php on line 583
+
+2020-07-17T10:09:29+00:00 CRITICAL Cannot redeclare amphibious_credits_blog() (previously declared in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:98) in /Users/sinhcautb/Sites/wordpress/wp-content/themes/Amphibious/inc/extras.php on line 257
+
+2020-07-17T10:10:53+00:00 CRITICAL Cannot redeclare amphibious_credits_blog() (previously declared in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:98) in /Users/sinhcautb/Sites/wordpress/wp-content/themes/Amphibious/inc/extras.php on line 257
+
+2020-07-17T10:11:35+00:00 CRITICAL Uncaught Error: Call to a member function add_setting() on null in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:81
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-blog-header.php(13): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/index.php(17): require('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 81
+
+2020-07-17T10:11:44+00:00 CRITICAL Uncaught Error: Call to a member function add_setting() on null in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:81
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-blog-header.php(13): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/index.php(17): require('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 81
+
+2020-07-17T10:11:56+00:00 CRITICAL Uncaught Error: Call to a member function add_setting() on null in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:81
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-blog-header.php(13): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/index.php(17): require('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 81
+
+2020-07-17T10:12:44+00:00 CRITICAL Uncaught Error: Call to a member function add_setting() on null in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:81
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-blog-header.php(13): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/index.php(17): require('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 81
+
+2020-07-17T10:13:09+00:00 CRITICAL Uncaught Error: Call to a member function add_setting() on null in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:78
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-blog-header.php(13): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/index.php(17): require('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 78
+
+2020-07-17T10:21:26+00:00 CRITICAL Uncaught Error: Call to a member function add_setting() on string in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:80
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-blog-header.php(13): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/index.php(17): require('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 80
+
+2020-07-17T10:21:32+00:00 CRITICAL Uncaught Error: Call to a member function add_setting() on string in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:80
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-blog-header.php(13): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/index.php(17): require('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 80
+
+2020-07-17T10:23:39+00:00 CRITICAL syntax error, unexpected 'class' (T_CLASS), expecting variable (T_VARIABLE) or '$' in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 79
+
+2020-07-17T10:23:59+00:00 CRITICAL Uncaught Error: Class 'WP_Customize_Manager' not found in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:79
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-blog-header.php(13): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/index.php(17): require('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 79
+
+2020-07-17T10:32:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/extends/widget.php on line 10 and at least 2 expected in /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-widget.php:162
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/extends/widget.php(10): WP_Widget->__construct()
+#1 /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-widget-factory.php(61): Amphibious_Child_Widget->__construct()
+#2 /Users/sinhcautb/Sites/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('Amphibious_Chil...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/extends/widget.php(122): register_widget('Amphibious_Chil...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-hook.php(287): create_amphibious_child_widget('')
+#5 /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/sinhc in /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-widget.php on line 162
+
+2020-07-17T10:32:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/extends/widget.php on line 10 and at least 2 expected in /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-widget.php:162
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/extends/widget.php(10): WP_Widget->__construct()
+#1 /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-widget-factory.php(61): Amphibious_Child_Widget->__construct()
+#2 /Users/sinhcautb/Sites/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register('Amphibious_Chil...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/extends/widget.php(122): register_widget('Amphibious_Chil...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-hook.php(287): create_amphibious_child_widget('')
+#5 /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/sinhc in /Users/sinhcautb/Sites/wordpress/wp-includes/class-wp-widget.php on line 162
+

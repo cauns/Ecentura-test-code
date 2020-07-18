@@ -1,0 +1,77 @@
+2020-07-18T05:57:30+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_field() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:117
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin-ajax.php(22): require_once('/Users/sinhcaut...')
+#4 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 117
+
+2020-07-18T05:57:31+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_field() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:117
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin.php(34): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-admin/edit.php(10): require_once('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 117
+
+2020-07-18T05:58:56+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_field() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:117
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin.php(34): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-admin/edit.php(10): require_once('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 117
+
+2020-07-18T06:02:29+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_section() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:116
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin-ajax.php(22): require_once('/Users/sinhcaut...')
+#4 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 116
+
+2020-07-18T06:02:30+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_section() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:116
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin.php(34): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-admin/options-general.php(10): require_once('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 116
+
+2020-07-18T06:17:34+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_field() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:118
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin-ajax.php(22): require_once('/Users/sinhcaut...')
+#4 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 118
+
+2020-07-18T06:17:35+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_field() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:118
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin.php(34): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-admin/options-general.php(10): require_once('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 118
+
+2020-07-18T06:19:35+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_field() in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php:118
+Stack trace:
+#0 /Users/sinhcautb/Sites/wordpress/wp-settings.php(508): include()
+#1 /Users/sinhcautb/Sites/wordpress/wp-config.php(89): require_once('/Users/sinhcaut...')
+#2 /Users/sinhcautb/Sites/wordpress/wp-load.php(37): require_once('/Users/sinhcaut...')
+#3 /Users/sinhcautb/Sites/wordpress/wp-admin/admin.php(34): require_once('/Users/sinhcaut...')
+#4 /Users/sinhcautb/Sites/wordpress/wp-admin/options-general.php(10): require_once('/Users/sinhcaut...')
+#5 {main}
+  thrown in /Users/sinhcautb/Sites/wordpress/wp-content/themes/amphibious-child/functions.php on line 118
+
